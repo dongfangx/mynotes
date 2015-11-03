@@ -9,6 +9,7 @@
 #### Gitbook操作
 1. 在Gitbook中，创建名称myTest的书籍，（备注：这儿最好跟Github中库的名称相同
 2. 在Gitbook设置中，添加Github 的库名称，如: dongfangx/myTest,保存
+![添加Github](img/gitbook.png)
 3. 打开刚刚创建的myTest书籍，应该能看到Github初始化的书籍，（备注：有时要多等会儿
 
 #### 编辑书籍
