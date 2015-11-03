@@ -3,7 +3,8 @@
 * [前言](README.md)
 * [开发学习日志](WorkStudy/README.md)
    * [Github同步创建Gitbook](WorkStudy/c1-1 githubToGitbook.md)
-   * [分类](WorkStudy/c1-2 category.md)
+   * [变量使用](WorkStudy/c1-2 var use.md)
+   * [变量使用2](WorkStudy/c1-2 var use.md)   
    
 * [第二章](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
