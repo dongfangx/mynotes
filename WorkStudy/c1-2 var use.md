@@ -10,8 +10,10 @@
 #### 解决思路
 - 从1个不变的容器中，如iconVec中，根据Tag或UserData,获取Texture,创建Sprite
 - 要改变的Tool变量，不做任何动画等操作，只用来显示，显示完后，马上释放
+
 ```
-auto icon1 = iconTempVec.at(newIndex);	//iconTempVec 只是容器，第一次填充数据后，不会改变
+auto icon1 = iconTempVec.at(newIndex);	
+//iconTempVec 只是容器，第一次填充数据后，不会改变
 auto tu1 = Sprite::createWithTexture(icon1->getTexture());
 this->addChild(tu1,200);
 tu1->setPosition(Vec2(100,100));
@@ -26,6 +28,7 @@ tu1->runAction(Sequence::create(MoveTo::create(0.3, pp1),CallFunc::create([=]{
 #### 较好的方法，能解决同步问题
 - 所有的变量，创建后，在使用过程中，都不会改变，
 - 数组tool,使用Map存放
+
 ```
 void Spa::onToolTouchMoved(Ref* pSender){
     auto icon = (ButtonSprite2*)pSender;
