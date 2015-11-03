@@ -1,13 +1,9 @@
 # Summary
 
 * [前言](README.md)
-* [开发学习日志](chapter1/README.md)
-   * [Github同步创建Gitbook](chapter1/c1-1 githubToGitbook.md)
-   * [分类](chapter1/c1-2 category.md)
-   * [ARC](chapter1/c1-3 arc.md)
-   * [Block](chapter1/c1-4 block.md)
-   * [Foundation](chapter1/c1-5 foundation.md)
-   * [GCD](chapter1/c1-6 gcd.md)
+* [开发学习日志](WorkStudy/README.md)
+   * [Github同步创建Gitbook](WorkStudy/c1-1 githubToGitbook.md)
+   * [分类](WorkStudy/c1-2 category.md)
    
 * [第二章](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
