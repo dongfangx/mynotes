@@ -12,10 +12,11 @@
 8. <ol>
 9. <hr/>
 10. <br/>
-11. <!-->
+11. <!- ->
 ```
-
 #### 表单
+
+```
 - <form>
 - <input>
 - <textarea>
@@ -23,15 +24,21 @@
 - <select> - <option>
 - <button>
 - <fieldset> 
+```
 
 #### 头部
+
+```
 - <title>
 - <base>
 - <meta>
 - <script> - <noscript>
 - <style>
+```
 
 #### URL
+
+```
 scheme://host.domain:port/path/filename
 
 - scheme - 定义因特网服务的类型。最常见的类型是 http
@@ -40,10 +47,11 @@ scheme://host.domain:port/path/filename
 - :port - 定义主机上的端口号（http 的默认端口号是 80）
 - path - 定义服务器上的路径（如果省略，则文档必须位于网站的根目录中）。
 - filename - 定义文档/资源的名称 
+```
 
 #### 案列
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
