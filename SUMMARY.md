@@ -5,6 +5,7 @@
    * [Github同步创建Gitbook](WorkStudy/c1-1 githubToGitbook.md)
    * [变量使用](WorkStudy/c1-2 var use.md)
    * [ios8横屏广告freeze](WorkStudy/c1-3 ios8横屏广告freeze.md)   
+   * [ios8横屏广告freeze](WorkStudy/c1-4 html教程.md)   
    
 * [第二章](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
