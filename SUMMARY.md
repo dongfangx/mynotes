@@ -5,8 +5,8 @@
    * [Github同步创建Gitbook](WorkStudy/c1-1 githubToGitbook.md)
    * [变量使用](WorkStudy/c1-2 var use.md)
    * [ios8横屏广告freeze](WorkStudy/c1-3 ios8横屏广告freeze.md)   
-   * [html教程](WorkStudy/c1-4 html教程.md)  
    * [Git already exists in the index](WorkStudy/c1-5 Git already exists in the index.md)
+   * [视频广告播放Resume问题](WorkStudy/c1-6 Android RewardAd.md) 
    
 * [第二章](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
