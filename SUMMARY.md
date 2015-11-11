@@ -7,7 +7,11 @@
    * [ios8横屏广告freeze](WorkStudy/c1-3 ios8横屏广告freeze.md)   
    * [Git already exists in the index](WorkStudy/c1-5 Git already exists in the index.md)
    * [视频广告播放Resume问题](WorkStudy/c1-6 Android RewardAd.md) 
-   
+* [笔记](notes/README.md)
+   * [吴晓波频道](chapter2/README.md)
+      * [三个最烂行业的逆袭者](notes/吴晓波频道/d1 三个最烂行业的逆袭者.md)
+
+
 * [第二章](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
    * [UILabel](chapter2/c2-2 uilabel.md)
