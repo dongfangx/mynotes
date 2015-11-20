@@ -12,7 +12,8 @@
 * [笔记](notes/README.md)
    * [吴晓波频道](chapter2/README.md)
       * [三个最烂行业的逆袭者](notes/吴晓波频道/d1 三个最烂行业的逆袭者.md)
-
+   * [个人修养](chapter2/README.md)
+      * [提高自制力](notes/个人修养/e-1 提高自制力.md)
 
 * [第二章](chapter2/README.md)
    * [UIButton](chapter2/c2-1 uibutton.md)
