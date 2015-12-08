@@ -8,6 +8,7 @@
    * [Git already exists in the index](WorkStudy/c1-5 Git already exists in the index.md)
    * [视频广告播放Resume问题](WorkStudy/c1-6 Android RewardAd.md) 
    * [组件化思路](WorkStudy/c1-7 组件化思路.md) 
+   * [coco build module warning](WorkStudy/c1-9 coco build warning.md) 
    
 * [笔记](notes/README.md)
    * [吴晓波频道](chapter2/README.md)
